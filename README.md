@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Omkar8720
+- 👋 Hi, I’m Omkar..
 - 👀 I’m interested in exploring the latest advancements in machine learning and artificial intelligence, and applying them to solve real-world problems.
 - 🌱 I’m currently learning Machine Learning techniques and data science methodologies to enhance my skills and knowledge.
 - 💞️ I’m looking to collaborate on innovative projects that leverage data and machine learning to create impactful solutions. I am particularly interested in collaborating on open-source projects and research initiatives.
