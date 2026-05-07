@@ -1,12 +1,36 @@
-- 👋 Hi, I’m Omkar..
-- 👀 I’m interested in exploring the latest advancements in machine learning and artificial intelligence, and applying them to solve real-world problems.
-- 🌱 I’m currently learning Machine Learning techniques and data science methodologies to enhance my skills and knowledge.
-- 💞️ I’m looking to collaborate on innovative projects that leverage data and machine learning to create impactful solutions. I am particularly interested in collaborating on open-source projects and research initiatives.
-- 📫 How to reach me: You can reach me via email at omkar8720@example.com or connect with me on LinkedIn at linkedin.com/in/omkar8720.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: A passionate football fan who loves traveling, exploring new destinations, and visiting popular food spots.
+# 👋 Hi, I'm Omkar Sawant
+
+I’m someone who enjoys learning technology by building practical projects and exploring how data can help solve business problems. Currently, I’m focused on improving my skills in Data Analytics, Power BI, Python, SQL, and Machine Learning.
+
+* 🌱 Currently learning and working on improving my knowledge in Data Analytics, Machine Learning, and Business Intelligence tools.
+* 💻 Interested in creating dashboards, automation solutions, and data-driven applications.
+* 📊 Hands-on experience with Power BI dashboards, Python projects, MySQL databases, and Flask-based applications.
+* 🤝 Open to collaborating on beginner-friendly and real-world projects related to analytics, reporting, and AI/ML.
+* 🎯 Career goal: To grow into a skilled Data Analyst / MIS Analyst role while continuously learning new technologies.
+* 📫 Reach me at: [omkar8720@example.com](mailto:omkar8720@example.com)
+* 🔗 LinkedIn: linkedin.com/in/omkar8720
+* ⚡ Outside of tech, I enjoy football, traveling, and exploring popular food places.
+
+---
+
+### 🛠️ Skills & Tools
+
+* Python
+* SQL & MySQL
+* Power BI
+* Excel
+* Flask
+* Git & GitHub
+
+---
+
+### 📌 Projects
+
+* BMI Prediction System using Machine Learning
+* Power BI Dashboard Projects
+* Ticket Management Web Application
+* AI HR Automation Project
 
 <!---
-Omkar8720/Omkar8720 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Omkar8720/Omkar8720 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
