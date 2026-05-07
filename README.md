@@ -7,7 +7,7 @@ I’m someone who enjoys learning technology by building practical projects and 
 * 📊 Hands-on experience with Power BI dashboards, Python projects, MySQL databases, and Flask-based applications.
 * 🤝 Open to collaborating on beginner-friendly and real-world projects related to analytics, reporting, and AI/ML.
 * 🎯 Career goal: To grow into a skilled Data Analyst / MIS Analyst role while continuously learning new technologies.
-* 📫 Reach me at: [omkar8720@example.com](mailto:omkar8720@example.com)
+* 📫 Reach me at: [omkarsawant8720@example.com](mailto:omkarsawant8720@example.com)
 * 🔗 LinkedIn: linkedin.com/in/omkar8720
 * ⚡ Outside of tech, I enjoy football, traveling, and exploring popular food places.
 
